@@ -1,0 +1,8 @@
+Admin:
+     username :  admin
+     password :  Ab123456
+
+
+User login_details
+    username:   user
+    password: Ab123456
